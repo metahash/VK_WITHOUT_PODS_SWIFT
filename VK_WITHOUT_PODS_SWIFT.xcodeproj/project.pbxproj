@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		751829FB20A9A14200084F82 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 751829FA20A9A14200084F82 /* .gitignore */; };
 		75BB426E20722E80002E7241 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75BB426D20722E80002E7241 /* AppDelegate.swift */; };
 		75BB427320722E80002E7241 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75BB427120722E80002E7241 /* Main.storyboard */; };
 		75BB427520722E80002E7241 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75BB427420722E80002E7241 /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		751829FA20A9A14200084F82 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		75BB426A20722E80002E7241 /* VK_WITHOUT_PODS_SWIFT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VK_WITHOUT_PODS_SWIFT.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		75BB426D20722E80002E7241 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		75BB427220722E80002E7241 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 		75BB426120722E80002E7241 = {
 			isa = PBXGroup;
 			children = (
+				751829FA20A9A14200084F82 /* .gitignore */,
 				75BB426C20722E80002E7241 /* VK_WITHOUT_PODS_SWIFT */,
 				75BB428120722E81002E7241 /* VK_WITHOUT_PODS_SWIFTTests */,
 				75BB426B20722E80002E7241 /* Products */,
@@ -230,6 +233,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				751829FB20A9A14200084F82 /* .gitignore in Resources */,
 				75BB427820722E80002E7241 /* LaunchScreen.storyboard in Resources */,
 				75BB427520722E80002E7241 /* Assets.xcassets in Resources */,
 				75BB427320722E80002E7241 /* Main.storyboard in Resources */,
